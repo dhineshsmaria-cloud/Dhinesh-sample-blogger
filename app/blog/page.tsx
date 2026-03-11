@@ -9,7 +9,7 @@ export default async function BlogPage() {
       <section className="bg-gray-100 py-12">
         <div className="max-w-4xl mx-auto px-4">
           <h1 className="text-4xl font-bold text-primary mb-4">All Posts</h1>
-          <p className="text-gray-600">Explore all articles and stories</p>
+          <p className="text-gray-600">Explore all Dhinesh articles and stories</p>
         </div>
       </section>
 
